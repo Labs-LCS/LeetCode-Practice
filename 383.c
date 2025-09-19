@@ -31,7 +31,7 @@ bool canConstruct(char* ransomNote, char* magazine) {
         // This works fine because C assumes char as their ASCII values
         // specially in the context of arithmetic operations.
     }
-    for (int i = 0; ransomNote[i] != 0; i++) {
+    for (int i = 0; ransomNote[i] != '\0'; i++) {
         if (map[ransomNote[i] - 'a'] == 0) return false;
         map[ransomNote[i] - 'a']--;
     }
