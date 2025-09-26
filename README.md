@@ -9,6 +9,7 @@ Here is a list of the problems I’ve already solved:
 * 383: [Ransom Note](https://github.com/Labs-LCS/LeetCode-Practice/blob/main/383.c)
     * [Notes](https://github.com/Labs-LCS/LeetCode-Practice/blob/main/383.pdf)
 * 412: [Fizz Buzz](https://github.com/Labs-LCS/LeetCode-Practice/blob/main/412.c)
+* 643: [Maximum Average Subarray I](https://github.com/Labs-LCS/LeetCode-Practice/blob/main/643.c)
 * 876: [Middle of the Linked List](https://github.com/Labs-LCS/LeetCode-Practice/blob/main/876.c)
     * [Notes](https://github.com/Labs-LCS/LeetCode-Practice/blob/main/876.pdf)
 * 977: [Squares of a Sorted Array](https://github.com/Labs-LCS/LeetCode-Practice/blob/main/977.c)
